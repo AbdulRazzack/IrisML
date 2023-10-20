@@ -3,9 +3,9 @@
 Tools and Requirements
 
 1. [github](https://github.com)
-2. [Render]([https://heroku.com](https://render.com/))
-3. [VisualStudioCode](https://code.visualstdio.com/)
-4. [GitCLI](https://git-scm.com/downloads)
+2. [Render](https://render.com/)
+3. [Visual Studio Code](https://code.visualstdio.com/)
+4. [Git CLI](https://git-scm.com/downloads)
 
 Create New Environmant
 
