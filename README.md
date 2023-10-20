@@ -2,8 +2,8 @@
 
 Tools and Requirements
 
-1. [githubAccount](https://github.com)
-2. [HerokuAccount](https://heroku.com)
+1. [github](https://github.com)
+2. [Render]([https://heroku.com](https://render.com/))
 3. [VisualStudioCode](https://code.visualstdio.com/)
 4. [GitCLI](https://git-scm.com/downloads)
 
